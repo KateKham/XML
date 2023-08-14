@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <bug_report>
-<ID><Identification number</ID>
-<Summary><A section that summarizes the essence of the bug in one sentence. Answers the questions what, where, under what circumstances?</Summary>
+<ID>Identification number</ID>
+<Summary>A section that summarizes the essence of the bug in one sentence. Answers the questions what, where, under what circumstances?</Summary>
 <Project>Name of project, program or application in which a bug is identified</Project>
 <Version>The exact version of the software containing the bug</Version>
 <Severity>The parameter that determines the effect of bug on program operation -Blocker -Critical -Major -Minor -Trivial</Severity>
